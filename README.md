@@ -1,9 +1,3 @@
-To create an attractive README file for your Python project that generates an ID card in Google Colab using PIL (Python Imaging Library), here’s a structured template with some suggestions. The README should provide an overview of the project, explain the key functionality, and guide users on how to use it effectively. This format works well for GitHub or any project documentation.
-
-### **README Template**
-
----
-
 # **ID Card Generator in Python (Google Colab)**
 
 ## **Overview**
@@ -28,7 +22,7 @@ This project offers a simple way to generate professional ID cards with user-def
 
 Here's a sample of the generated ID card:
 
-![Sample ID Card](/content/ID_card_generated.png)
+![Sample ID Card]([/content/ID_card_generated.png](https://github.com/moiz14553/CodeAlpha-/blob/main/ID_card_generated.png?raw=true))
 
 ## **Getting Started**
 
