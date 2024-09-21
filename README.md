@@ -28,7 +28,7 @@ This project offers a simple way to generate professional ID cards with user-def
 
 Here's a sample of the generated ID card:
 
-![Sample ID Card](link_to_demo_image)
+![Sample ID Card](/content/ID_card_generated.png)
 
 ## **Getting Started**
 
